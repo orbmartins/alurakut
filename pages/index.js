@@ -1,7 +1,7 @@
-import MainGrid from '../src/Componentes/MainGrid'
-import Box from '../src/Componentes/Box'
+import MainGrid from '../src/components/MainGrid'
+import Box from '../src/components/Box'
 import { AlurakutMenu, OrkutNostalgicIconSet } from '../src/lib/AluraCommons'
-import { ProfileRelationsBoxWrapper } from '../src/Componentes/ProfileRelations'
+import { ProfileRelationsBoxWrapper } from '../src/components/ProfileRelations'
 
 function ProfileSidebar(propriedades) {
   console.log(propriedades);
